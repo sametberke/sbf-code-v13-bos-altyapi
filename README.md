@@ -1,0 +1,1 @@
+Kurulum.md yi okuyunuz.
